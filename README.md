@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @zeeshanchand
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Web Dev, Big Data, Data Science and Freelancing.
 - 🌱 I’m currently learning Python and wordpress apis
 - 💞️ I’m looking to collaborate on advanced IT techniques
+- I Work as Wordpress Developer / IT Manager in respective capacities
 - 📫 How to reach me zeezeeshan2014[@]outlookdotcom.
 
 
