@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zeeshanchand
-- 👀 I’m interested in Full Stack Web Dev, Big Data, Data Science and Freelancing.
-- 🌱 I’m currently learning Python and wordpress apis
+- 👀 I’m interested in Full Stack Web Dev, Big Data, Data Science, Machine Learning, NLP, GEN AI.
+- 🌱 I’m currently learning in Machine Learning, LangChain, Natural Language Processing, Data Science.
 - 💞️ I’m looking to collaborate on advanced IT techniques
-- I Work as Wordpress Developer / IT Manager in respective capacities
+- I Machine Learning Researcher/Facilitator/
 - 📫 How to reach me zeezeeshan2014[@]outlookdotcom.
 
 
